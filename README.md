@@ -16,13 +16,6 @@ Des API bien conçues aux interfaces soignées, je participe au développement d
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://boukadia.vercel.app/)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mustapha.boukadia97@gmail.com)
 </div>
-<br/>
-
-
-### 👀 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=boukadia&color=blue&style=flat-square&label=PROFILE+VIEWS)
-
 
 ---
 
